@@ -1,2 +1,2 @@
 # react-movie-app
-Design Movie Application UI to list all movies using React
+Design Movie Application UI to list all movies using React(Functional Component,state,props)
